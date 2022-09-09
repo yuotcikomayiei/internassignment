@@ -11,7 +11,7 @@ const Header = () => {
     <header className='py-6 mb-12 border-b'>
       <div className='container mx-auto flex justify-between items-center'>
         <Link to='/' className='Header'>
-          <h1>FictionalR</h1>
+          <h1>FictionR</h1>
         </Link>
         <div className='flex items-center gap-5'>
         <Link to='/'>
